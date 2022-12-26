@@ -33,7 +33,8 @@ public class Main {
         String result = '\n' +
                         name + "," + " you're " + age + " years old " +
                         "living at " + address +
-                        "" + "and \nyou're currently schooling at " + school + " in the " +
+                        "" + "and \nyou're currently schooling at " + school +
+                        " in the " +
                         "department of " + department + ",\n" + level + " " +
                         "level.\n " + "Your" + " phone number is " + phone;
 
